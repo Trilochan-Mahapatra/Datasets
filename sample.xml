@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Birds>
+    <Bird>
+        <Common_Name>Great Horned Owl</Common_Name>
+        <Order>strigiformes</Order>
+        <Family>strigidae</Family>
+        <Calls>
+            <Call>whoo! Whoo-whoo-Whoo! Whoo! Whoo!</Call>
+        </Calls>
+        <Calls>
+            <Call>hoot-hoot-hoot-hoot</Call>
+        </Calls>
+        <Colours Upperparts="dark brown/grey brown" Underparts="dark barred" Breast="white" />
+    </Bird>
+    <Bird>
+        <Common_Name>Pygmy Nuthatch</Common_Name>
+        <Order>passeriformes</Order>
+        <Family>sittidae</Family>
+        <Calls>
+            <Call>tee-dee, tee-dee</Call>
+        </Calls>
+        <Colours Upperparts="blue-gray" Breast="pale yellow" Cap="dark gray-brown" Nape="pale" />
+    </Bird>
+    <Bird>
+        <Order>passeriformes</Order>
+        <Family>corvidae</Family>
+        <Calls>
+            <Call>jay, jay, jay</Call>
+        </Calls>
+        <Calls>
+            <Call>thief, thief, thief!</Call>
+        </Calls>
+        <Calls>
+            <Call>I'm a blue jay</Call>
+        </Calls>
+        <Colours Upperparts="bright blue" Underparts="pale gray" />
+        <Common_Name>Blue Jay</Common_Name>
+    </Bird>
+</Birds>

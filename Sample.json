@@ -1,0 +1,38 @@
+[
+    {
+        "Common Name": "Great Horned Owl",
+        "Order": "strigiformes",
+        "Family": "strigidae",
+        "Calls": [
+            {"Call": "whoo! Whoo-whoo-Whoo! Whoo! Whoo!"},
+            {"Call": "hoot-hoot-hoot-hoot"}
+        ],
+        "Colours": {"Upperparts": "dark brown/grey brown",
+                    "Underparts": "dark barred",
+                    "Breast": "white"}
+    },
+    {
+        "Common Name": "Pygmy Nuthatch",
+        "Order": "passeriformes",
+        "Family": "sittidae",
+        "Calls": [
+            {"Call": "tee-dee, tee-dee"}
+        ],
+        "Colours": {"Upperparts": "blue-gray",
+                    "Breast": "pale yellow",
+                    "Cap": "dark gray-brown",
+                    "Nape": "pale"}
+    },
+    {
+        "Common Name": "Blue Jay",
+        "Order": "passeriformes",
+        "Family": "corvidae",
+        "Calls": [
+            {"Call": "jay, jay, jay"},
+            {"Call": "thief, thief, thief!"},
+            {"Call": "I'm a blue jay"}
+        ],
+        "Colours": {"Upperparts": "bright blue",
+                    "Underparts": "pale gray"}
+    }
+]
